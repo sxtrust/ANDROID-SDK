@@ -35,7 +35,7 @@ init(boolean isDev);
 /**
 * @param context
 * @param loginChannel 登录渠道 *必须
-* @param productCode  产品编号 *非必须
+* @param productCode  产品编号 *非必须，不传默认全部
 */
 startInvest(Context context, String loginChannel, String productCode);
 ```
