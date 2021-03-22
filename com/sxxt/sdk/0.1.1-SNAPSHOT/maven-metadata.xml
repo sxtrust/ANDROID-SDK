@@ -2,23 +2,23 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.sxxt</groupId>
   <artifactId>sdk</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20210322.092815</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20210322.095754</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20210322092815</lastUpdated>
+    <lastUpdated>20210322095754</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>aar</extension>
-        <value>0.1.0-20210322.092815-2</value>
-        <updated>20210322092815</updated>
+        <value>0.1.1-20210322.095754-1</value>
+        <updated>20210322095754</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1.0-20210322.092815-2</value>
-        <updated>20210322092815</updated>
+        <value>0.1.1-20210322.095754-1</value>
+        <updated>20210322095754</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
