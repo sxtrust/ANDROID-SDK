@@ -34,8 +34,8 @@ init(boolean isDev);
 ```java
 /**
 * @param context
-* @param loginChannel 登录渠道 *必须
+* @param channel 渠道 *必须
 * @param productCode  产品编号 *非必须，不传默认全部
 */
-startInvest(Context context, String loginChannel, String productCode);
+startInvest(Context context, String channel, String productCode);
 ```
