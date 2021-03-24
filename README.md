@@ -19,7 +19,7 @@ implementation 'com.sxxt:sdk:0.1.8-SNAPSHOT'
 
 ## 2、使用
 ```java
-SXTrustSDK.getInstance();
+SXTrustSDK.getInstance()
 ```
 
 ### a)初始化SDK
