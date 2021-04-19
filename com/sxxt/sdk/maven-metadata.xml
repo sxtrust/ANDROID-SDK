@@ -27,7 +27,8 @@
       <version>0.2.2-SNAPSHOT</version>
       <version>1.0.0</version>
       <version>0.2.2-inner-SNAPSHOT</version>
+      <version>0.2.3-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210419020901</lastUpdated>
+    <lastUpdated>20210419025204</lastUpdated>
   </versioning>
 </metadata>
