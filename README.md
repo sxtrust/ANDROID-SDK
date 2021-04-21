@@ -32,7 +32,7 @@ init();
 init(boolean isDev);
 ```
 
-### b)唤起
+### b)投资
 ```java
 /**
 * @param context
@@ -41,6 +41,21 @@ init(boolean isDev);
 */
 startInvest(Context context, String channel, String productCode);
 ```
-### c)其他
-#### 1)setDev(boolean isDev);//设置开发模式
+### c)设置开发模式
+```java
+setDev(boolean isDev);
+```
 
+### d)设置实名信息
+```java
+/**
+* @param userName   姓名
+* @param userID     身份证号
+*/
+setRealNameInfo(String userName, String userID);
+```
+
+### e)清除实名信息
+```java
+removeRealNameInfo();
+```
