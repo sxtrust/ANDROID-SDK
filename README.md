@@ -24,6 +24,8 @@ SXTrustSDK.getInstance()
 
 ### a)初始化SDK
 ```java
+init();
+
 /**
 * @param isDev 是否为开发模式
 */
@@ -39,3 +41,6 @@ init(boolean isDev);
 */
 startInvest(Context context, String channel, String productCode);
 ```
+### c)其他
+#### 1)setDev(boolean isDev);//设置开发模式
+
