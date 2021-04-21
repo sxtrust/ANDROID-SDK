@@ -13,8 +13,14 @@ allprojects {
 }
 ```
 ### b)在Module的build.gradle中添加
+
+1.快照版本
 ```
 implementation 'com.sxxt:sdk:0.2.3-SNAPSHOT'
+```
+2.正式版本
+```
+implementation 'com.sxxt:sdk:1.0.0'
 ```
 
 ## 2、使用
