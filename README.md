@@ -14,7 +14,7 @@ allprojects {
 ```
 ### b)在Module的build.gradle中添加
 ```
-implementation 'com.sxxt:sdk:1.0.0'
+implementation 'com.sxxt:sdk:0.2.3-SNAPSHOT'
 ```
 
 ## 2、使用
