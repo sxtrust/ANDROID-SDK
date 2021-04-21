@@ -52,7 +52,7 @@ startInvest(Context context, String channel, String productCode);
 setDev(boolean isDev);
 ```
 
-### d)设置实名信息
+### d)设置实名信息（v1.0.1）
 ```java
 /**
 * @param userName   姓名
@@ -61,7 +61,7 @@ setDev(boolean isDev);
 setRealNameInfo(String userName, String userID);
 ```
 
-### e)清除实名信息
+### e)清除实名信息（v1.0.1）
 ```java
 removeRealNameInfo();
 ```
