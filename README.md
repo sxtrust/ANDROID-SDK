@@ -20,7 +20,7 @@ allprojects {
   ```
   2.正式版本
   ```
-  implementation 'com.sxxt:sdk:1.0.0'
+  implementation 'com.sxxt:sdk:1.0.1'
   ```
 
 ## 2、使用
