@@ -65,3 +65,11 @@ setRealNameInfo(String userName, String userID);
 ```java
 removeRealNameInfo();
 ```
+
+
+## 3、混淆
+如果开发者需要使用proguard进行混淆打包，请在proguard配置文件添加如下代码：
+```java
+#SXTrust
+-keep class com.sxxt.**{*;}
+```
